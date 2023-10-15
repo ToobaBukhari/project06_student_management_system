@@ -1,0 +1,2 @@
+# project06_student_management_system
+ CLI student_management_system
